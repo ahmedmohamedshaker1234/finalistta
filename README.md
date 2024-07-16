@@ -1,4 +1,4 @@
-# finalistta
+# wham app
 
 A new Flutter project.
 
